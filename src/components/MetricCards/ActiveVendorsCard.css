@@ -1,0 +1,28 @@
+/* ActiveVendorsCard.css */
+.active-vendors-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Center vertically */
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+  width: 300px;
+  height: 350px;
+  text-align: center;
+  margin: 10px; /* Add margin for space between cards */
+}
+
+.metric-value {
+  font-size: 8rem; /* Adjusted font size for the count */
+  font-weight: bold;
+  color: #007bff; 
+}
+
+.metric-title {
+  font-size: 1.5rem;
+  color: #555;
+  margin-bottom: auto; /* Push title to top */
+}

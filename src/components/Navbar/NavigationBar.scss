@@ -1,0 +1,38 @@
+.navbar {
+  background-color: #333;
+  padding: 15px 0;
+  width: 200px; /* Initial width for the sidebar */
+  transition: width 0.3s ease-in-out; /* Transition for smooth sidebar width animation */
+  overflow: hidden; /* Hide content when hidden */
+}
+
+.navbar.visible {
+  width: 200px; /* Set the width when visible */
+}
+
+.navbar.hidden {
+  width: 5px; /* Set width to 0 when hidden */
+}
+
+.navbar-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar-item {
+  margin-bottom: 50px;
+  margin-top: 90px;
+  margin-left: 45px; /* Adjust the margin between navbar links */
+}
+
+.navbar-link {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #ffcc00;
+  }
+}
