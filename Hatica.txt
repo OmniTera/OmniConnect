@@ -1,0 +1,61 @@
+Hatica:
+What they do: Provides software development analytics to track team performance and improve productivity.
+How they do it: by integrating with various work apps, such as GitHub, Jira, Slack, etc., and collecting activity data from them. Then, it uses artificial intelligence to generate dashboards and insights that measure and improve software engineering performance
+Key features: Developer activity reports, project health dashboards, code quality analysis, automated notifications, performance comparisons.
+
+
+Hubilo:
+What they do: Hosts interactive webinars, virtual events, and conferences.
+How they do it: Provides a platform for live streaming, audience engagement tools (polls, Q&A, breakout rooms), virtual exhibition booths, and event analytics.
+Key features: Live streaming with multiple presenters, interactive tools, gamification elements, virtual networking, customizable branding, detailed analytics.
+
+
+Mezo:
+What they do: Provides cloud-based software for managing property maintenance and repairs.
+How they do it: Streamlines work orders, tracks maintenance history, manages communication between tenants and landlords, facilitates payments, and generates reports.
+Key features: Work order management, preventive maintenance scheduling, inventory tracking, tenant portal, landlord app, communication tools, reporting and analytics.
+
+
+Gumlet:
+What they do: Offers video hosting, video delivery, and video streaming solutions for businesses.
+How they do it: Provides a platform for uploading and managing videos, optimizes videos for different devices and networks, delivers videos through a global content delivery network, and offers video analytics.
+Key features: Video hosting with transcoding, global CDN delivery, video playback customization, video security, detailed analytics.
+
+
+Moolya:
+What they do: Provides comprehensive software testing services for web, mobile, and API applications.
+How they do it: Offers manual and automated testing, performance testing, security testing, compatibility testing, and regression testing.
+Key features: Functional testing, non-functional testing, accessibility testing, API testing, security testing, continuous integration/continuous delivery (CI/CD) integration.
+
+
+Togai:
+What they do: Helps software companies implement and manage flexible usage-based pricing models.
+How they do it: Provides a platform for defining usage metrics, setting pricing tiers, tracking customer usage, and billing customers based on usage.
+Key features: Usage metering, dynamic pricing tiers, subscription management, revenue reporting, fraud detection, integration with billing systems.
+
+
+Venwiz:
+What they do: Offers a digital platform for sourcing and procuring industrial services from various vendors.
+How they do it: Connects buyers and sellers of industrial services in a marketplace format. Provides tools for managing requests for proposals (RFPs), comparing quotes, negotiating contracts, and managing invoicing.
+Key features: Service directory, vendor search, RFP management, quote comparison, contract negotiation, online payments, supplier performance tracking.
+
+
+PayGlocal:
+What they do: Enables businesses to send and receive international payments in multiple currencies.
+How they do it: Provides a platform for currency conversion, multi-currency accounts, international bank transfers, and foreign exchange risk management.
+Key features: Multi-currency wallets, currency exchange at market rates, fast and secure cross-border payments, FX hedging tools, compliance and regulatory support.
+
+
+Fielddrive:
+What they do: Provides software for managing and enhancing in-person events.
+How they do it: Offers tools for event registration, check-in/check-out, attendee engagement (gamification, surveys), lead capture, real-time analytics, and post-event reporting.
+Key features: Event registration and ticketing, attendee management, lead capture, interactive features, real-time event data, customizable dashboards, post-event reporting.
+
+
+Supertron:
+What they do: Distributes IT and telecom products in India.
+How they do it: Acts as a channel partner for various IT and telecom vendors. Provides a network of distributors and resellers across India. Offers logistics and warehousing services.
+Key features: Product distribution network, logistics and warehousing, marketing and sales support, technical training, customer support.
+
+
+LEMLIST
